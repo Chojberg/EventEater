@@ -1,0 +1,5 @@
+https://today.uci.edu/calendar/week?event_types%5B%5D=48779 UCI_arts_humanities
+https://today.uci.edu/calendar/week?event_types%5B%5D=48746 UCI_athletics
+https://today.uci.edu/calendar/week?event_types%5B%5D=48766 Lectures
+https://today.uci.edu/calendar/week?event_types%5B%5D=48774 Workshops
+https://today.uci.edu/calendar/week?event_types%5B%5D=48737 Conferences
